@@ -33,12 +33,12 @@
 
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> Sobre Mim:
 
-- 🧑‍💻 Sou **Analista de Qualidade de Software (QA)** com foco em garantir a confiabilidade, eficiência e desempenho das aplicações  
-- 💡 Experiência em **Testes Manuais, Automação de Testes**  
-- 💻 Tecnologias utilizadas no dia a dia: **Cypress, Robot Framework, Selenium, Postman, Python, JavaScript, Java, SQL, Git/Github, Jira, Trello**  
-- 📖 Atualmente cursando **Pós-graduação em Gestão da Qualidade de Software**  
-- 👥 Atuação colaborativa com **times de desenvolvimento e negócio** para entrega de software com **alta qualidade**  
-- ⚡ Sempre em busca de **evolução contínua de processos e ferramentas de QA**  
+- 🧑‍💻 Sou **Analista de Qualidade de Software (QA)** com foco em garantir a confiabilidade, eficiência e desempenho das aplicações;  
+- 💡 Experiência em **Testes Manuais, Automação de Testes;**  
+- 💻 Tecnologias utilizadas no dia a dia: **Cypress, Robot Framework, Selenium, Postman, Python, JavaScript, Java, SQL, Git/Github, Jira, Trello;**  
+- 📖 Atualmente cursando **Pós-graduação em Gestão da Qualidade de Software;**  
+- 👥 Atuação colaborativa com **times de desenvolvimento e negócio** para entrega de software com **alta qualidade;**  
+- ⚡ Sempre em busca de **evolução contínua de processos e ferramentas de QA.**  
 
 
 <!-- ============================
@@ -77,8 +77,11 @@
       ESTATÍSTICAS DO GITHUB
 =============================== -->
 
-<!-- Mostra as principais linguagens utilizadas nos repositórios -->
-[![Principais Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=andrertech&layout=compact&text_color=daf7dc&bg_color=151515&hide=css,html,php&langs_title=Principais%20Linguagens)](https://github.com/andrertech/github-readme-stats)
+<p align="center">
+  <!-- Badge das principais linguagens -->
+  <a href="https://github.com/andrertech/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrertech&layout=compact&text_color=daf7dc&bg_color=151515&hide=css,html,php&langs_title=Principais%20Linguagens" alt="Principais Linguagens" width="300"/>
+  </a>
 
 
 <!-- ============================
