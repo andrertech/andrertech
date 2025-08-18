@@ -60,19 +60,18 @@
 <!-- ============================
       CONTATOS (LinkedIn / Email)
 =============================== -->
+<p align="center">
+  <!-- Botão/link para o LinkedIn -->
+  <a href="https://www.linkedin.com/in/andrertech" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
 
-<!-- Botão/link para o LinkedIn -->
-<a href="https://www.linkedin.com/in/andrertech" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
-</a>
+  <!-- Botão/link para o Email -->
+  <a href="mailto:andre.rtech@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-%23CC6600.svg?&style=flat-square&logo=gmail&logoColor=white" alt="Email">
+  </a>
+</p>
 
-<!-- Botão/link para o Email -->
-<a href="mailto:andre.rtech@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Email-%23CC6600.svg?&style=flat-square&logo=gmail&logoColor=white" alt="Email">
-</a>
-
-
----
 
 <!-- ============================
       ESTATÍSTICAS DO GITHUB
