@@ -64,17 +64,28 @@
 <br>
 
 <!-- ============================
-      ESTATÍSTICAS DO GITHUB
-=============================== -->
-
-<p align="center">
-  <!-- Badge das principais linguagens -->
+     LINGUAGENS MAIS USADAS
+============================= -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=andrertech&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=codeSTACKr&hide_border=false&order=2" height="290" alt="languages graph"  />
-        <br>
-        <br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=andrertech&radius=16&theme=redical&area=true&order=5&hide_title=false&hide_border=true" height="290" alt="activity-graph graph"  />
+
+  <!-- Badge das principais linguagens -->
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=andrertech&locale=pt-br&hide_title=false&layout=compact&card_width=350&langs_count=10&theme=codeSTACKr&hide_border=false" 
+    height="200" 
+    alt="Gráfico de linguagens" 
+  />
+  
+  <br><br>
+  
+  <!-- Gráfico de atividades -->
+  <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=andrertech&radius=16&theme=redical&area=true&hide_title=false&hide_border=true" 
+    height="250" 
+    alt="Gráfico de atividades" 
+  />
+
 </div>
+
 
 
 <!-- ============================
