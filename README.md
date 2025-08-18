@@ -41,8 +41,10 @@
 - 💻 Tecnologias utilizadas no dia a dia: **Cypress, Robot Framework, Selenium, Postman, Python, JavaScript, Java, SQL, Git/Github, Jira, Trello;**  
 - 📖 Atualmente cursando **Pós-graduação em Gestão da Qualidade de Software;**  
 - 👥 Atuação colaborativa com **times de desenvolvimento e negócio** para entrega de software com **alta qualidade;**  
-- ⚡ Sempre em busca de **evolução contínua de processos e ferramentas de QA.**  
+- ⚡ Sempre em busca de **evolução contínua de processos e ferramentas de QA.**
 
+<br>
+<br>
 
 <!-- ============================
       ÍCONES DE TECNOLOGIAS
@@ -59,6 +61,29 @@
       <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="GIT" width="55" height="55"/> 
 </p>
 
+<br>
+
+<!-- ============================
+      ESTATÍSTICAS DO GITHUB
+=============================== -->
+
+<p align="center">
+  <!-- Badge das principais linguagens -->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=andrertech&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=codeSTACKr&hide_border=false&order=2" height="290" alt="languages graph"  />
+        <br>
+        <br>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=andrertech&radius=16&theme=redical&area=true&order=5&hide_title=false&hide_border=true" height="290" alt="activity-graph graph"  />
+</div>
+
+
+<!-- ============================
+      CONTADOR DE VISITANTES
+=============================== -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=andrertech&label=👀+Visualizações&color=orange&style=flat-square" 
+       alt="Contador de visitas no perfil" width="170" height="40"/>
+</p>
 
 <!-- ============================
       CONTATOS (LinkedIn / Email)
@@ -75,25 +100,6 @@
   </a>
 </p>
 
-
-<!-- ============================
-      ESTATÍSTICAS DO GITHUB
-=============================== -->
-
-<p align="center">
-  <!-- Badge das principais linguagens -->
-  <a href="https://github.com/andrertech/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrertech&layout=compact&text_color=daf7dc&bg_color=151515&hide=css,html,php&langs_title=Principais%20Linguagens" alt="Principais Linguagens" width="300"/>
-  </a>
-
-
-<!-- ============================
-      CONTADOR DE VISITANTES
-=============================== -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=andrertech&label=👀+Visualizações&color=orange&style=flat-square" 
-       alt="Contador de visitas no perfil" width="170" height="40"/>
-</p>
 
 <!-- Parte inferior da página -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FFA500&height=120&section=footer"/>
