@@ -92,7 +92,7 @@
       CONTADOR DE VISITANTES
 =============================== -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=andrertech&label=👀+Visualizações&color=orange&style=flat-square" 
+  <img src="https://komarev.com/ghpvc/?username=andrertech1&label=👀+Visualizações&color=orange&style=flat-square" 
        alt="Contador de visitas no perfil" width="170" height="40"/>
 </p>
 
