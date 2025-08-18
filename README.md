@@ -1,3 +1,6 @@
+<!-- Parte superior da página -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FFA500&height=120&section=header"/>
+
 <!-- ============================
         CABEÇALHO / NOME
 =============================== -->
@@ -91,6 +94,9 @@
   <img src="https://komarev.com/ghpvc/?username=andrertech&label=👀+Visualizações&color=orange&style=flat-square" 
        alt="Contador de visitas no perfil" width="170" height="40"/>
 </p>
+
+<!-- Parte inferior da página -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FFA500&height=120&section=footer"/>
 
 <!-- ============================
         Fim!
